@@ -1,13 +1,25 @@
-# ponpoko-button
-
+# 🍃ぽんぽこボタン
 
 ## 📦Description
 
-This project is a Maven project that has the ability to return Excel cell information in JsonArray format String.
+バーチャルYoutuber「甲賀流忍者ぽんぽこ」さんの非公式ファンサイトです。  
+ご本人ならびに公式とは一切関係ありません。
+
+このサイトは主に以下の技術によって実現されています。
+
+- [Next.js](https://nextjs.org/)
+- [tailwindcss](https://tailwindcss.com/)
+
+## SpecialThanks
+
+- [甲賀流忍者ぽんぽこTwitter](https://twitter.com/ponpokoka)
+- [Youtube](https://www.youtube.com/channel/UC1EB8moGYdkoZQfWHjh7Ivw)
+- [オシャレになりたい！ピーナッツくんTwitter](https://twitter.com/osyarenuts)
+- [Youtube](https://www.youtube.com/channel/UCmgWMQkenFc72QnYkdxdoKA)
 
 ## 🎫 License
 
-- [MIT](https://raw.githubusercontent.com/NaokiOouchi/ponpoko-button/main/LICENSE?token=AK3GOOWLWOHCLX7RATE5HWTASM3R6)
+- [MIT](https://github.com/NaokiOouchi/ponpoko-button/blob/main/LICENSE)
 
 ## 👀Author
 
