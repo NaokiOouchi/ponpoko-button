@@ -1,0 +1,47 @@
+html,
+body {
+    padding: 0;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+button:focus {
+}
+
+button:focus {
+    outline-style: none !important;
+}
+
+.card-content {
+    @apply max-w-4xl my-2 px-5 mx-auto bg-white rounded-lg shadow-md
+}
+
+.channel-btn {
+    @apply px-5 py-6 bg-white rounded-lg shadow-md flex active:bg-gray-200 hover:bg-gray-100
+}
+
+.channel-grid {
+    @apply max-w-4xl my-2 py-6 mx-auto grid grid-cols-3 gap-4
+}
+
+.btn {
+    @apply py-2 px-4 font-semibold rounded-lg shadow-md;
+}
+
+.btn-green {
+    @apply text-white bg-green-500 hover:bg-green-700;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
