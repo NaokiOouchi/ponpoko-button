@@ -9,7 +9,6 @@ const Voices = () => (
     <div>
         {
             voiceList.map(function (value, index, array) {
-                console.log(value)
                 return <div className="card-content py-6">
                     <div className="container">
                         <div className="my-0.5">

@@ -31,7 +31,7 @@ button:focus {
 }
 
 .channel-grid {
-    @apply max-w-4xl my-2 py-6 mx-auto grid grid-cols-3 gap-4
+    @apply max-w-4xl my-2 py-6 mx-auto grid grid-cols-1 gap-4 md:grid-cols-3
 }
 
 .btn {
