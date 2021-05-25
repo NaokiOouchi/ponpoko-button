@@ -9,8 +9,9 @@
 
 - [Next.js](https://nextjs.org/)
 - [tailwindcss](https://tailwindcss.com/)
+- [Vercel](https://vercel.com/)
 
-## SpecialThanks
+## 🍃🥜SpecialThanks
 
 - [甲賀流忍者ぽんぽこTwitter](https://twitter.com/ponpokoka)
 - [Youtube](https://www.youtube.com/channel/UC1EB8moGYdkoZQfWHjh7Ivw)
