@@ -16,7 +16,7 @@ echo {
   echo {
     printf \"title\":
     echo \"$(basename ${file%.*})\",
-     printf \"list\":
+     printf \"path\":
     echo \"${file:2}\",
     echo },
     done

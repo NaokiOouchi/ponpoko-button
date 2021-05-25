@@ -30,9 +30,9 @@ const Kaizen = () => (
                               size={1}
                               color="#1DA1F2"
                         />
-                        <a href="https://github.com/NaokiOouchi/ponpoko-button" target="_blank"
+                        <a href="https://twitter.com/NaoNoaNaoNoaN" target="_blank"
                            className="text-blue-500">
-                            作成者
+                            製作者
                         </a>
                     </text>
                 </p>

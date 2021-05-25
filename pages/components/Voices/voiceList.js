@@ -1,0 +1,19 @@
+export const voiceList = [{
+"title":"挨拶",
+"list":
+[
+{
+"title":"挨拶１",
+"path":"挨拶/挨拶１.wav",
+},
+{
+"title":"挨拶２",
+"path":"挨拶/挨拶２.wav",
+},
+{
+"title":"挨拶３",
+"path":"挨拶/挨拶３.wav",
+},
+]
+},
+]
