@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && next export",
     "start": "next start",
     "updateJson": "./bin/update_json.sh"
   },
@@ -19,6 +19,7 @@
   "devDependencies": {
     "autoprefixer": "^10.2.5",
     "postcss": "^8.3.0",
+    "serve": "^11.3.2",
     "tailwindcss": "^2.1.2"
   }
 }

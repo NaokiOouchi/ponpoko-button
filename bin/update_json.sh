@@ -1,7 +1,7 @@
 #!/bin/bash
 
 cd public/voice
-JSONFILE=../../pages/components/Voices/voiceList.js
+JSONFILE=../../src/voiceList.js
 
 {
   printf "export const voiceList = ["

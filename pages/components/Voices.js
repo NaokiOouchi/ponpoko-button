@@ -1,4 +1,4 @@
-import {voiceList} from './Voices/voiceList'
+import {voiceList} from '../../src/voiceList'
 
 const soundPlay = (path) => {
     const audio = new Audio(path)
