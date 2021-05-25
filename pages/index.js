@@ -17,7 +17,7 @@ export default function Home() {
                 <meta property="og:title" content="ぽんぽこボタン" />
                 <meta property="og:site_name" content="ぽんぽこボタン" />
                 <meta property="og:type" content="website" />
-                <meta property="og:image" content="blob:https://vercel.com/bb10a158-d2c8-4c1b-b542-10c698bf38ce" />
+                <meta property="og:image" content="https://ponpoko-button.vercel.app/image/05b4f308-61b5-4133-a6d5-87fbaa0195bd.png" />
                 <link rel="icon" href="/favicon.ico"/>
             </Head>
             <Header/>
