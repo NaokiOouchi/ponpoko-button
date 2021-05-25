@@ -1,4 +1,4 @@
-import {mdiAlert, mdiGithub, mdiTwitter} from "@mdi/js";
+import {mdiAlert, mdiGithub, mdiTwitter,mdiEmailOutline} from "@mdi/js";
 import {Icon} from "@mdi/react";
 
 const Kaizen = () => (
@@ -23,6 +23,16 @@ const Kaizen = () => (
                         <a href="https://github.com/NaokiOouchi/ponpoko-button" target="_blank"
                            className="text-blue-500">
                             GitHub
+                        </a>
+                    </text>
+                    <text className="flex">
+                        <Icon path={mdiEmailOutline}
+                              size={1}
+                              color="#FFC0CB"
+                        />
+                        <a href="https://marshmallow-qa.com/naonoanaonoan?utm_medium=url_text&utm_source=promotion" target="_blank"
+                           className="text-blue-500">
+                            マシュマロ
                         </a>
                     </text>
                     <text className="flex">
