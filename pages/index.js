@@ -14,6 +14,10 @@ export default function Home() {
             <Head>
                 <title>ぽんぽこボタン</title>
                 <meta name="description" content="ボタンを押すとぽんぽこさんの可愛くて素敵で少しヤンキーなボイスが再生されるファンサイトです。"/>
+                <meta property="og:title" content="ぽんぽこボタン" />
+                <meta property="og:site_name" content="ぽんぽこボタン" />
+                <meta property="og:type" content="website" />
+                <meta property="og:image" content="image/ogp_image.png" />
                 <link rel="icon" href="/favicon.ico"/>
             </Head>
             <Header/>
