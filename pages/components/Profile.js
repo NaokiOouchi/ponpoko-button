@@ -15,15 +15,17 @@ const Profile = () => (
                         <br/>
                         <br/>
                         <font className="text-sm md:text-xl">
-                        滋賀県甲賀市在住で、甲賀流忍者と甲賀市の特産物、信楽焼の狸をモチーフとしており、地元の甲賀を盛り上げるために活動を行っている。
+                            滋賀県甲賀市在住で、甲賀流忍者と甲賀市の特産物、信楽焼の狸をモチーフとしており、地元の甲賀を盛り上げるために活動を行っている。
                         </font>
                         <br/>
-                        (引用：
-                        <a href="
+                        <font className="text-sm md:text-xl">
+                            (引用：
+                            <a href="
                               https://ja.wikipedia.org/wiki/%E7%94%B2%E8%B3%80%E6%B5%81%E5%BF%8D%E8%80%85!%E3%81%BD%E3%82%93%E3%81%BD%E3%81%93"
-                              target="_blank" style={{color: "#2b7bb9"}}>Wikipedia
-                        </a>
-                        )
+                               target="_blank" style={{color: "#2b7bb9"}}>Wikipedia
+                            </a>
+                            )
+                        </font>
                     </td>
                     <td width="60%" height="600">
                         <TwitterTimelineEmbed
