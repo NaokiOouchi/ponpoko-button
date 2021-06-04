@@ -6,6 +6,7 @@ import Profile from "./components/Profile";
 import Footer from "./components/Footer";
 import Kaizen from "./components/Kaizen";
 import Voices from "./components/Voices";
+import Live from "./components/Live";
 
 export default function Home() {
     const images = {src:"./images"}
@@ -25,6 +26,7 @@ export default function Home() {
                 <Link/>
                 <Description/>
                 <Voices/>
+                <Live/>
                 <Profile/>
                 <Kaizen/>
             </main>
