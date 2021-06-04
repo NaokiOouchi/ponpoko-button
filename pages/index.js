@@ -20,6 +20,7 @@ export default function Home() {
                 <meta property="og:type" content="website" />
                 <meta property="og:image" content="https://ponpoko-button.vercel.app/image/05b4f308-61b5-4133-a6d5-87fbaa0195bd.png" />
                 <link rel="icon" href="/favicon.ico"/>
+                <meta name="google-site-verification" content="DvGbJRBBaR4Rd7orrKJnDKiCSqTglRHNik3gB2KDgZg" />
             </Head>
             <Header/>
             <main className="main bg-gray-200 p-4">
