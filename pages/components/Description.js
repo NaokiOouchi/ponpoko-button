@@ -23,6 +23,12 @@ const Description = () => (
                         宇志海ボタン
                     </a>
                 </font>
+                &emsp;
+                <font color="#FFC9FF">
+                    <a href="https://www.natorisana.love/" target="_blank" className="mt-2">
+                        さなボタン（２）
+                    </a>
+                </font>
             </div>
         </div>
     </div>
